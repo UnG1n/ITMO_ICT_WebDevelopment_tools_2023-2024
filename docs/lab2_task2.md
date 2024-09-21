@@ -233,7 +233,7 @@
 
 ВЫВОД
 
-    ![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/lab_2_console_pars.png) 
+![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/lab_2_console_pars.png) 
     спаршенные заголовки
 
 Время

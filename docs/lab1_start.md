@@ -6,18 +6,18 @@
     Дополнительные функции могут включать в себя возможность получения уведомлений о превышении бюджета, 
     анализа трат и установки целей на будущее.
 
-    ![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/lab_1_DB.png)  
+![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/lab_1_DB.png)  
     База данных
 
 Необходимо реализовать функционал пользователя в разрабатываемом приложении. Функционал включает в себя:
 
-    ![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/lab_1_registration.png) 
+![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/lab_1_registration.png) 
     Регистрация вместе с хэшированием пароля
 
-    ![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/lab_1_auth.png) 
+![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/lab_1_auth.png) 
     Авторизация вместе с генерацией JWT-токенов
 
-    ![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/lab_1_JWT.png) 
+![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/lab_1_JWT.png) 
     Аутентификацию по JWT-токену
 
 

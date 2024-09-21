@@ -141,19 +141,19 @@
     temp_bd - словарь который используется как временная база данных
     И эндпоинты для создания, изменения или просмотра информации о профессиях
 
-    ![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_1_profession.png)  
+![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_1_profession.png)  
     Выводим список профессий
 
-    ![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_1_profession_id.png)  
+![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_1_profession_id.png)  
     Выводим профессию по id
 
-    ![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_1_create.png)  
+![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_1_create.png)  
     Создаем нового человека
 
-    ![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_1_PUT.png)  
+![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_1_PUT.png)  
     Меняем информацию
 
-    ![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_1_DELETE.png)  
+![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_1_DELETE.png)  
     Удаляем 
 
 

@@ -143,10 +143,10 @@
 
 ВЫВОД
 
-    ![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/lab_3_pars.png) 
+![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/lab_3_pars.png) 
     парсим домен
 
-    ![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/lab_2_get.png) 
+![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/lab_2_get.png) 
     смотрим что домен запарсился
 
 Таким образом мы научились упаковывать FastAPI приложение в Docker, интегрировали парсерр данных с базой данных

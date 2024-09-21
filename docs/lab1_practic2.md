@@ -146,31 +146,31 @@
     Описание работы -  
     Добавляем зависимости, исключения, импорт базы данных из PgAdmin
 
-    ![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_2_warrior.png)  
+![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_2_warrior.png)  
     Добавляем в базу данных воина
 
-    ![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_2_skill_list.png)  
+![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_2_skill_list.png)  
     Выводим список скиллов
 
-    ![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_2_skill_id.png)  
+![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_2_skill_id.png)  
     Выводим скилл по id
 
-    ![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_2_skill_create.png)  
+![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_2_skill_create.png)  
     Создаем скилл
 
-    ![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_2_skill_change.png)  
+![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_2_skill_change.png)  
     Изменяем скилл
 
-    ![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_2_skill_delete.png)  
+![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_2_skill_delete.png)  
     Удаляем скилл
 
-    ![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_2_skill_link.png)  
+![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_2_skill_link.png)  
     Создаем связь между скиллом и воином
 
-    ![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_2_skilllink_list.png)  
+![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_2_skilllink_list.png)  
     Выводим список связей между скиллами и воинами
 
-    ![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_2_skilllink_id.png)  
+![](http://ung1n.github.io/ITMO_ICT_WebDevelopment_tools_2023-2024/img/lab1_and_practics/practic_2_skilllink_id.png)  
     Выводим связь между скиллом и воином по id скилла и воина
 
 
